@@ -1,7 +1,12 @@
+.header img{
+    width: 80px;
+}
+.text-platzi{
+    color: #97c93e !important;
+}
 .footer{
     background:  linear-gradient(90deg, rgb(28, 54, 67) 0px, rgb(39, 59, 71) 25%, rgb(30, 83, 114));
 }
 .footer a{
     color: white;
-
 }
