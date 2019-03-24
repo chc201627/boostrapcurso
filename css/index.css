@@ -33,6 +33,13 @@ main .carousel-inner img{
 #carousel .overlay .row{
     height: 100%;
 }
+.place-time img{
+    max-width: 100%;
+}
+.place-time{
+    background-color: #343a40!important;
+    color: white;
+}
 .footer{
     background:  linear-gradient(90deg, rgb(28, 54, 67) 0px, rgb(39, 59, 71) 25%, rgb(30, 83, 114));
 }
